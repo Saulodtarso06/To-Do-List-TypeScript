@@ -24,20 +24,7 @@ Este projeto não utiliza nenhum banco de dados e nem interações complexas com
 ## Tecnologias utilizadas
 
 - TypeScript
-- HTML5 Semântico
-- CSS3
+- HTML
+- CSS
 - LocalStorage API
 ---
-
-## 📁 Estrutura de arquivos
-```bash
-/
-├── index.html          # Página principal
-├── style.css           # Estilização da interface
-├── main.ts             # Lógica principal do app
-├── types.ts            # Definição de tipos (Tarefa/Lembrete)
-├── storage.ts          # Manipulação do localStorage
-├── ui.ts               # Atualização e renderização no DOM
-├── reminder.ts         # Sistema de alerta dos lembretes
-└── task.ts             # Lógica de criação/remoção de tarefas
-```
