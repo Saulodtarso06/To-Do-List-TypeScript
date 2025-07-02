@@ -1,0 +1,19 @@
+# Compilados do TypeScript
+dist/
+*.js
+*.js.map
+
+# Diretório de dependências node
+node_modules/
+
+# Configurações do sistema/IDE
+.DS_Store
+.vscode/
+*.log
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+#instruções de upload do projeto para o git
+/upload_instrutions.txt
